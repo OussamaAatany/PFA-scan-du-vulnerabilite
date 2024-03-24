@@ -1,5 +1,5 @@
 # PFA-scan-du-vulnerabilite
-c'est scan de vuln pour une appweb 
+c'est un scan de vulnerablite pour une appweb 
 
 
 
